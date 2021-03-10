@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974637892390",
+    "project_id": "textrecognitionmlfirebas-aa95c",
+    "storage_bucket": "textrecognitionmlfirebas-aa95c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974637892390:android:114d8603b8fe9de85f77e7",
+        "android_client_info": {
+          "package_name": "com.edwards2kx.text_recognition_ml_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974637892390-sif1s1sb38hoed8nfvmut8jb52fnsh4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uBNlPEC8yHR1dNAmFeOji5Bw1CvshWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974637892390-sif1s1sb38hoed8nfvmut8jb52fnsh4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
